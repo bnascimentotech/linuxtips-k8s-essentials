@@ -1,7 +1,7 @@
 # Kubernetes Essentials - LinuxTips
-LinuxTips free Kubernetes Essentials course files.
+Arquivos do curso gratuito Kubernetes Essentials da LinuxTips.
 
 ---
 
 * Link: https://www.linuxtips.io/course/kubernetes-essentials.
-* Language: Brazilian Portuguese.
+* Idioma: Português do Brasil.
