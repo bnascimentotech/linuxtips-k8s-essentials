@@ -1,2 +1,5 @@
 # linuxtips-k8s-essentials
-Arquivos do curso Kubernetes Essentials da LinuxTips.
+LinuxTips Kubernetes Essentials course files.
+
+## Link
+Course link [here](https://www.linuxtips.io/course/kubernetes-essentials).
