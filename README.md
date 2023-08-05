@@ -1,5 +1,5 @@
-# linuxtips-k8s-essentials
+# Kubernetes Essentials - LinuxTips
 LinuxTips Kubernetes Essentials course files.
 
-## Link
-Course link [here](https://www.linuxtips.io/course/kubernetes-essentials).
+* Link: https://www.linuxtips.io/course/kubernetes-essentials.
+* Language: Brazilian Portuguese.
