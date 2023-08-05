@@ -1,5 +1,5 @@
 # Kubernetes Essentials - LinuxTips
-LinuxTips Kubernetes Essentials course files.
+LinuxTips free Kubernetes Essentials course files.
 
 ---
 
